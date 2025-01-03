@@ -1,0 +1,35 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="500"
+  height="500"
+  viewBox="0 0 100 100"
+>
+  <!-- Outer rectangle -->
+  <rect
+    x="20"
+    y="20"
+    width="60"
+    height="60"
+    rx="10"
+    ry="10"
+    fill="#FFFF00"
+    stroke="#007BFF"
+    stroke-width="4"
+  />
+  <!-- Vertical pins -->
+  <rect x="10" y="30" width="6" height="10" fill="#007BFF" />
+  <rect x="10" y="50" width="6" height="10" fill="#007BFF" />
+  <rect x="10" y="70" width="6" height="10" fill="#007BFF" />
+  <rect x="84" y="30" width="6" height="10" fill="#007BFF" />
+  <rect x="84" y="50" width="6" height="10" fill="#007BFF" />
+  <rect x="84" y="70" width="6" height="10" fill="#007BFF" />
+  <!-- Horizontal pins -->
+  <rect x="30" y="10" width="10" height="6" fill="#007BFF" />
+  <rect x="50" y="10" width="10" height="6" fill="#007BFF" />
+  <rect x="70" y="10" width="10" height="6" fill="#007BFF" />
+  <rect x="30" y="84" width="10" height="6" fill="#007BFF" />
+  <rect x="50" y="84" width="10" height="6" fill="#007BFF" />
+  <rect x="70" y="84" width="10" height="6" fill="#007BFF" />
+  <!-- Inner L-shape -->
+  <path d="M30 30 L30 60 L60 60" stroke="#007BFF" stroke-width="2" fill="none" />
+</svg>
