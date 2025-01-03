@@ -45,7 +45,7 @@ const Header = () => {
               )}
             </Button>
             <a
-              href="https://github.com/yourusername/api-visualizer"
+              href="https://github.com/Sarthaklad1034/api-response-visualizer.git"
               target="_blank"
               rel="noopener noreferrer"
             >
